@@ -1,0 +1,1 @@
+# delete-jquery-view
